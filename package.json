@@ -1,5 +1,12 @@
-"scripts": {
-  "build": "vite build",
-  "dev": "vite",
-  "start": "serve dist"
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "start": "serve dist"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
