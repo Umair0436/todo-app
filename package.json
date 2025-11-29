@@ -1,18 +1,5 @@
-{
-  "name": "todo-app",
-  "private": true,
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "vite": "^4.5.14"
-  }
+"scripts": {
+  "build": "vite build",
+  "dev": "vite",
+  "start": "serve dist"
 }
